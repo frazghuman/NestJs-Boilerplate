@@ -67,7 +67,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Author - [Ahmed Fraz](https://www.linkedin.com/in/ahmed-fraz-0732842b/)
-- Website - [ahmed-fraz-0732842b](https://www.linkedin.com/in/ahmed-fraz-0732842b/)
+- Website - [LinkedIn](https://www.linkedin.com/in/ahmed-fraz-0732842b/)
 - Twitter - [@ma_fraz](https://twitter.com/ma_fraz)
 
 ## License
